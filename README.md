@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Machine Learning & AI Enthusiast</h3>
 
 
-<h3 align="center">🌐 Socials:</h3>
+##🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-deshmukh-4903062a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deshmukhabhi9098@gmail.com)
 
 # 💻 Tech Stack:

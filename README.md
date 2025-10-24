@@ -11,7 +11,7 @@
 
 <h3 align="center">📫 Reach me out:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/mlwithtanmay/">
+  <a href="https://www.linkedin.com/in/abhishek-deshmukh-4903062a3/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
   <a href="https://x.com/Deshmukh_abhi77">
